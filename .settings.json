@@ -1,0 +1,13 @@
+{
+  "all-active": true,
+  "active": {
+    "auth": true,
+    "registration": true,
+    "profile": true,
+    "edit": true,
+    "calls": true
+  },
+  "white-list-id": [1],
+  "stopped-title": "Упс, технические работы",
+  "stopped-text": "Эта страница временно недоступна, так как я внедряю новый функционал. Попробуй обновить страницу через 5 минут."
+}
