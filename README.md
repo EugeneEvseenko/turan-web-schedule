@@ -1,7 +1,7 @@
 # turan-web-schedule
 Development of a web service for maintaining and viewing the class schedule turan.evseenko.kz
 
-Для корректной работы необходимо создат файл с настройками базы данных.
+Для корректной работы необходимо создать файл с настройками базы данных.
 
 **Пример файла:**
 
