@@ -7,7 +7,7 @@ Development of a web service for maintaining and viewing the class schedule tura
 
 ```php
 <?php
-  define( 'MYSQL_SERVER', 'адрес серва' );
+  define( 'MYSQL_SERVER', 'адрес сервера' );
   define( 'MYSQL_USER', 'имя пользователя' );
   define( 'MYSQL_PASSWORD', 'пароль' );
   define( 'MYSQL_DB', 'имя базы данных' );
